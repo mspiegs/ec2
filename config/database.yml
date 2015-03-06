@@ -35,5 +35,5 @@ production:
   database: ec2_production
   pool: 5
   username: root
-  password:
+  password: kaPP@s1g1
   socket: /tmp/mysql.sock
